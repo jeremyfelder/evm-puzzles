@@ -21,8 +21,8 @@ const puzzleCode = [
 
 // Enter your solution here
 const solution = {
-  data: "0x",
-  value: 0
+  data: "0x00000008",
+  value: 2
 }
 
 setup(puzzleCode, solution)

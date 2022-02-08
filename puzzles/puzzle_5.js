@@ -13,7 +13,7 @@ const puzzleCode = [
 // Enter your solution here
 const solution = {
   data: "0x",
-  value: 0
+  value: 6
 }
 
 setup(puzzleCode, solution)
