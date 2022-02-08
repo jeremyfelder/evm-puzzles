@@ -12,7 +12,7 @@ const puzzleCode = [
 
 // Enter your solution here
 const solution = {
-  data: "0x",
+  data: "0x000000000000000000000000000000000000000000000000000000000000000a",
   value: 0
 }
 

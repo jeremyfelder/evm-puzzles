@@ -14,7 +14,7 @@ const puzzleCode = [
 
 // Enter your solution here
 const solution = {
-  data: "0x",
+  data: "0x0000000000000000000000000000000000000000000000000000000000000001",
   value: 0
 }
 

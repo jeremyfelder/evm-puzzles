@@ -12,7 +12,7 @@ const puzzleCode = [
 
 // Enter your solution here
 const solution = {
-  data: "0x",
+  data: "0x11",
   value: 0
 }
 
